@@ -18,9 +18,3 @@ def likes(names):
         return '{}, {} and {} like this'.format(names[0], names[1], names[2])
     else:
         return '{}, {} and {} others like this'. format(names[0], names[1], length-2) 
-
-assert likes([]) == 'no one likes this'
-assert likes(['Peter']) =='Peter likes this'
-assert likes(['Jacob', 'Alex']) ==  'Jacob and Alex like this'
-assert likes(['Max', 'John', 'Mark']) == 'Max, John and Mark like this'
-assert likes(['Alex', 'Jacob', 'Mark', 'Max']) == 'Alex, Jacob and 2 others like this'
