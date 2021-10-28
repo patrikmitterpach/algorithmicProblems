@@ -4,12 +4,13 @@
 # elements in a squared, regardless of the order.
 
 def comp(array1, array2):
+    if array1 == None or array2 == None:
+        return False
+    
     for idx, num in enumerate(array1):
         if  num**2 not in array2:
             return  False
-            
         array2.remove(num**2)
     
     return len(array2) == 0
 
-assert comp([1,2,3], [1,4,9]) == True
