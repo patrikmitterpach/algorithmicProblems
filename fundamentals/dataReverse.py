@@ -1,4 +1,4 @@
-# data-reverse.py
+# dataReverse.py
 
 # A stream of data is received and needs to be reversed.
 # Each segment is 8 bits long, meaning the order of these segments needs 
