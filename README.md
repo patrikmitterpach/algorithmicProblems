@@ -46,7 +46,9 @@ algoProblems
 - [numberComplement.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/numberComplement.py) ([LeetCode](https://leetcode.com/problems/number-complement))
 - [oddInt.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/oddInt.py)
 - [sameArr.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/sameArr.py)
-
+- [sumOfNums.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/sumOfNums.py)
+- [twoSum.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/twoSum.py)
+- 
 
 
 ### Medium
@@ -69,3 +71,7 @@ algoProblems
 - [showMultiples.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/showMultiples.sh) ([Codewars](https://www.codewars.com/kata/583989556754d6f4c700018e))
 - [humanReadableTime.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/humanReadableTime.sh) ([Codewars](https://www.codewars.com/kata/52685f7382004e774f0001f7))
 - [complementaryDNA.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/complementaryDNA.sh) ([Codewars](https://www.codewars.com/kata/554e4a2f232cdd87d9000038))
+- [10thLine.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/10thLine.sh)
+- [transposeFile.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/transposeFile.sh)
+- [validPhoneNumbers.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/validPhoneNumbers.sh)
+- [wordFrequency.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/wordFrequency.sh)
