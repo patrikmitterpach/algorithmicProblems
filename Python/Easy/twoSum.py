@@ -1,8 +1,10 @@
 def twoSum(nums, target):
-        for i in range( len(nums) ):
-            for ii in range( len(nums) ):
-                if nums[i] + nums[ii] == target and i != ii:
-                    return [i, ii]
-                    # Runtime O(n**2)
+        dictionary = {}
+
+        for idx, num in enumerate(nums):
+            numberToTarget = target - num
+            if numberToTarget in dictionary:
+                return [dictionary[numberToTarget], idx]
+            dictionary[num] = idx
 
 print( twoSum([2,7,11,15], 9) )
