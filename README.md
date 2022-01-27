@@ -4,9 +4,7 @@ algoProblems
 
 <h4 align = "center"><i>57</i> solutions to common algorithmic problems.</h1>
 
-## Python 
-
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png width=20> 
+## 🐍 Python 
 
 ### Easy
 - [perfectSquare.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/perfectSquare.py) ([Codewars](https://www.codewars.com/kata/56269eb78ad2e4ced1000013))
@@ -48,7 +46,7 @@ algoProblems
 - [sameArr.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/sameArr.py)
 - [sumOfNums.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/sumOfNums.py)
 - [twoSum.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/twoSum.py)
-- 
+
 
 
 ### Medium
@@ -61,7 +59,7 @@ algoProblems
 
 
 
-# Bash
+# 🐧 Bash
 ### Easy
 - [sumOfOddNumbers.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/sumOfOddNumbers.sh) ([Codewars](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064))
 - [paddedNumbers.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/paddedNumbers.sh) ([Codewars](https://www.codewars.com/kata/51c89385ee245d7ddf000001))
