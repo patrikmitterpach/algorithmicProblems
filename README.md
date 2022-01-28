@@ -1,6 +1,6 @@
 <h1 align = "center">algoProblems</h1>
 
-<h4 align = "center"><i>57</i> solutions to common algorithmic problems.</h1>
+<h4 align = "center"><i>58</i> solutions to common algorithmic problems.</h1>
 
 ## 🐍 Python 
 
