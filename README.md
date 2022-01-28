@@ -1,6 +1,6 @@
 <h1 align = "center">algoProblems</h1>
 
-<h4 align = "center"><i>57</i> solutions to common algorithmic problems.</h1>
+<h4 align = "center"><i>59</i> solutions to common algorithmic problems.</h1>
 
 ## 🐍 Python 
 
@@ -55,7 +55,7 @@
 - [gameOfLife.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/interestingMileage.py) ([Codewars](https://www.codewars.com/kata/525fbff0594da0665c0003a3))
 - [humanReadableDuration.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/interestingMileage.py) ([Codewars](https://www.codewars.com/kata/52742f58faf5485cae000b9a))
 - [dailyTemperatures.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/dailyTemperatures.py) ([LeetCode #739](https://leetcode.com/problems/daily-temperatures/))
-
+- [lastDigitOfLargeNum.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/lastDigitOfLargeNum.py) ([CodeWars](https://www.codewars.com/kata/5511b2f550906349a70004e1/train/python))
 
 # 🐧 Bash
 ### Easy
