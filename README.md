@@ -1,6 +1,4 @@
-<h1 align = "center">
-algoProblems
-</h1>
+<h1 align = "center">algoProblems</h1>
 
 <h4 align = "center"><i>57</i> solutions to common algorithmic problems.</h1>
 
@@ -56,7 +54,7 @@ algoProblems
 - [evaluateConnectFour.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/evaluateConnectFour.py) ([Codewars](https://www.codewars.com/kata/56882731514ec3ec3d000009))
 - [gameOfLife.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/interestingMileage.py) ([Codewars](https://www.codewars.com/kata/525fbff0594da0665c0003a3))
 - [humanReadableDuration.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/interestingMileage.py) ([Codewars](https://www.codewars.com/kata/52742f58faf5485cae000b9a))
-
+- [dailyTemperatures.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/dailyTemperatures.py) ([LeetCode #739](https://leetcode.com/problems/daily-temperatures/))
 
 
 # 🐧 Bash
