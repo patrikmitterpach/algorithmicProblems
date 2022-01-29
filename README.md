@@ -1,6 +1,6 @@
 <h1 align = "center">algoProblems</h1>
 
-<h4 align = "center"><i>60</i> solutions to common algorithmic problems.</h1>
+<h4 align = "center"><i>61</i> solutions to common algorithmic problems.</h1>
 
 ## 🐍 Python 
 
@@ -20,7 +20,7 @@
 - [maxSubarray.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/maxSubarray.py) ([Codewars](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c))
 - [deafRats.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/deafRats.py) ([Codewars](https://www.codewars.com/kata/598106cb34e205e074000031))
 - [nameFormatting.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/nameFormating.py) ([Codewars](https://www.codewars.com/kata/53368a47e38700bd8300030d))
-- [countingDuplicates.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/containsDuplicates.py) ([Codewars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1))
+- [countingDuplicates.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/containsDuplicates.py) ([LeetCode #217](https://leetcode.com/problems/contains-duplicate/))
 - [sumOfParts.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/sumsOfParts.py) ([Codewars](https://www.codewars.com/kata/5ce399e0047a45001c853c2b))
 - [reverseOver5.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/reverseOver5.py) ([Codewars](https://www.codewars.com/kata/5264d2b162488dc400000001))
 - [squareSum.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/squareSum.py) ([Codewars](https://www.codewars.com/kata/515e271a311df0350d00000f))
@@ -31,7 +31,7 @@
 - [inArr.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/inArr.py) ([Codewars](https://www.codewars.com/kata/550554fd08b86f84fe000a58))
 - [consecutiveFibonaccis.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/interestingMileage.py) ([Codewars](https://www.codewars.com/kata/5541f58a944b85ce6d00006a))
 - [romanNumerals.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/romanNumerals.py) ([Codewars](https://www.codewars.com/kata/51b66044bce5799a7f000003))
-- [bestDayToSell.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/bestDayToSell.py) ([LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/))
+- [bestDayToSell.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/bestDayToSell.py) ([LeetCode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/))
 - [facebookLikes.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/facebookLikes.py) ([CodeWars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362))
 - [firstUniqueCharacter.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/firstUniqueCharacter.py) ([LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/))
 - [highestRank.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/highestRank.py)
@@ -43,9 +43,8 @@
 - [oddInt.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/oddInt.py)
 - [sameArr.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/sameArr.py)
 - [sumOfNums.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/sumOfNums.py)
-- [twoSum.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/twoSum.py)
-
-
+- [twoSum.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/twoSum.py) ([LeetCode #1](https://leetcode.com/problems/two-sum/))
+- [isPalindrome.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Easy/twoSum.py) ([LeetCode #9](https://leetcode.com/problems/palindrome-number/))
 
 ### Medium
 - [sudokuValidation.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/sudokuValidation.py) ([Codewars](https://www.codewars.com/kata/529bf0e9bdf7657179000008))
