@@ -1,6 +1,6 @@
 <h1 align = "center">algoProblems</h1>
 
-<h4 align = "center"><i>61</i> solutions to common algorithmic problems.</h1>
+<h4 align = "center"><i>62</i> solutions to common algorithmic problems.</h1>
 
 ## 🐍 Python 
 
@@ -56,7 +56,7 @@
 - [dailyTemperatures.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/dailyTemperatures.py) ([LeetCode #739](https://leetcode.com/problems/daily-temperatures/))
 - [lastDigitOfLargeNum.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/lastDigitOfLargeNum.py) ([CodeWars](https://www.codewars.com/kata/5511b2f550906349a70004e1/train/python))
 - [stringMix.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/stringMix.py) ([CodeWars](https://www.codewars.com/kata/5629db57620258aa9d000014/python))
-
+- [perfectSquareBinary.py](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/Python/Medium/perfectSquareBinary.py) ([LeetCode](https://leetcode.com/problems/valid-perfect-square/))
 # 🐧 Bash
 ### Easy
 - [sumOfOddNumbers.sh](https://github.com/patrikmitterpach/algorithmicProblems/blob/main/bash/sumOfOddNumbers.sh) ([Codewars](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064))
