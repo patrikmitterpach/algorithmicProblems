@@ -23,9 +23,3 @@ def isPerfectSquare(num: int) -> bool:
         else:
             return True
     return False
-
-for i in range(1000000):
-    assert( isPerfectSquare(697) == False)
-
-newList = [num for num in range(1000)]
-map(print, newList)
